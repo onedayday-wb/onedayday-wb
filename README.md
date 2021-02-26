@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onedayday-wb&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onedayday-wb)](https://github.com/onedayday-wb)
