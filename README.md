@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onedayday-wb)](https://github.com/onedayday-wb)
 
-# 此网页总访客人数：
+# 此页面总访客人数：
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{onedayday-wb})
